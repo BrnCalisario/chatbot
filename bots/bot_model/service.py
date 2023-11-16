@@ -19,12 +19,7 @@ def predict(message):
 
     return label
 
-
-while True:
-    message = input("You: ")
+def give_answer(message):
     label = predict(message)
-    response = random_response(label)
-    print("Bot: " + response)
-
-
-
+    answer = random_response(label)
+    return answer
