@@ -1,0 +1,21 @@
+Intent,Message
+Greeting,Oi
+Greeting,Olá
+Greeting,Ola
+Greeting,Bom dia
+Greeting,Boa tarde
+Greeting,Boa noite
+Payment,Estou com dificuldades em pagar meus boletos
+Payment,Não consigo pagar o boleto da mensalidade
+Payment,"Minha fatura esta atrasada, como procedo ?"
+Payment,Não estou achando a aba de mensalidades
+Payment,Aonde consulto minhas parcelas de mensalidade ?
+PasswordRecovery,Esqueci minha senha
+PasswordRecovery,Gostaria de recuperar minha senha
+PasswordRecovery,Não sei minha senha
+PasswordRecovery,Perdi a minha chave de acesso
+PasswordRecovery,Como faço para recuperar minha senha ?
+Absence,Como vejo minhas faltas ?
+Absence,Quantas faltas precisa pra reprovar ?
+Absence,Onde envio o atestado para abonar minha falta ?
+Absence,É possível abonar faltas ?
