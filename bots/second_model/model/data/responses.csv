@@ -1,0 +1,28 @@
+Intent,Response
+Greeting,"Olá, como posso ajudar ?"
+Greeting,"Oi, como posso ajudar ?"
+Payment,"Para mais informações de pagamento, acesse a aba de Pagamentos no portal do aluno"
+Payment,Para problemas de pagamento de parcelas acesse a aba de Pagamentos no seu portal do aluno
+PasswordRecovery,"Não diga mais nada, já enviei um email para você com a recuperação de senha."
+PasswordRecovery,Lembre-se de nunca passar sua senha para atendentes! Estarei enviando um link de recuperação para você
+Absence,"Para consulta de faltas, acesse a aba de presença do portal do aluno"
+Absence,"Estamos com saudades da sua presença, acesse a aba de faltas no seu portal para mais detalhes"
+GoodBye,"Tchau, até a próxima :D"
+GoodBye,Já vai indo ? se cuida fi
+GoodBye,Eu sei onde você mora :)
+GoodByeGreatful,Fico feliz em ajudar ;)
+GoodByeGreatful,"Agradeço por escolher nosso serviço, até a próxima!"
+Incomprehensible,"Desculpa, não consegui entender o que você disse : ("
+Incomprehensible,Tendi foi nada...
+Incomprehensible,Não fui treinado para essa pergunta
+GreetingQuestion,"Tudo certo, alguma dúvida ?"
+GreetingQuestion,"Estou ótimo, como posso ajudar ?"
+Joke,Você
+Joke,O que o pato disse para a pata ? Vem quá
+Joke,"Duas formigas se encontraram e pararam para conversar:
+
+- Oi, qual é o seu nome?
+- Fu.
+- Fu o quê?
+- Fu Miga!"
+Joke,É de ladinho papai

@@ -59,10 +59,13 @@
 
 
 .history {
+  display: flex;
+  flex-direction: column;
   border: 1px solid lightgray;
   border-radius: 8px;
   height: 100%;
   overflow-y: auto;
+  flex-direction: column-reverse;
 }
 
 .sender {
@@ -84,11 +87,47 @@
 }
 
 .you {
+  align-self: flex-end;
   background-color: crimson;
   text-align: end;
 }
 
+.you::after {
+  position: relative;
+  top: -12px;
+  content: "Você";
+  background-color: white;
+  color: crimson;
+  padding: 6px;
+  border-radius: 50%;
+  margin-left: 6px;
+}
+
 .bot {
+  align-self: flex-start;
   background-color: black;
-  text-align: end;
+  text-align: start;
+}
+
+.bot::before {
+  position: relative;
+  top: -12px;
+  content: "Bot";
+  background-color: white;
+  color: black;
+  padding: 6px;
+  border-radius: 50%;
+}
+
+.talk-list {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  border: 1px solid white;
+  padding: 2rem;
+}
+
+.talk-list span {
+  background-color: crimson;
+  color: white;
 }
